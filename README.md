@@ -1,4 +1,4 @@
-# Azure
+# Console
 
 Experimental SQL Terminal using Go + Windows Azure.
 
@@ -30,5 +30,4 @@ Special commands:
 <hr>
 <small>
 <strong>&copy; 2015 MIT License</strong>
-</small># Info
-# Info
+</small>
